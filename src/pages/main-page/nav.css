@@ -1,0 +1,7 @@
+.cursor-nav {
+    cursor: pointer;
+}
+
+.hover-text-nav:hover {
+    color: crimson;
+}
